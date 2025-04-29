@@ -78,7 +78,8 @@ issues encountered.
 | User Involvement              | Limited                       | Continuous engagement           |
 | Testing and Feedback          | Minimal iterative testing     | Regular, iterative feedback     |
 | Decision-Making               | Top-down                      | Decentralized, team-empowered   |
-| Response to Issues            | Reactive                      | Proactive and adaptive          | ([Defectors Slam Healthcare System After Fiasco - Sweden Herald](https://swedenherald.com/article/defectors-slam-healthcare-system-after-fiasco?utm_source=chatgpt.com), [Oracle-Cerner EHR software flaw led to patient harm: VA OIG](https://www.fiercehealthcare.com/health-tech/va-watchdog-finds-software-flaw-oracle-cerner-ehr-led-patient-harm?utm_source=chatgpt.com), [Implementing Agile Methodologies in Healthcare IT Projects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4987242&utm_source=chatgpt.com), [Agile in Healthcare: Benefits and Challenges of Agile ... - PremierAgile](https://premieragile.com/agile-in-healthcare-benefits-challenges-agile-adoption-healthcare-industry/?utm_source=chatgpt.com), [Scrapping the millennium: introduction of a health record in Sweden ...](https://www.heise.de/en/news/Scrapping-the-millennium-introduction-of-a-health-record-in-Sweden-fails-10323142.html?utm_source=chatgpt.com))
+| Response to Issues            | Reactive                      | Proactive and adaptive          |
+
 
 ---
 
@@ -89,4 +90,13 @@ highlight the limitations of traditional, rigid project management
 approaches in complex healthcare environments. Adopting the
 Outcome-Based Agile Framework could have provided a more flexible,
 user-centered, and adaptive methodology, potentially leading to a more
-successful deployment and better alignment with clinical needs. ([Agile Healthcare: Enhancing Patient Care - Agile Digest](https://us.agiledigest.com/agile-healthcare/?utm_source=chatgpt.com))
+successful deployment and better alignment with clinical needs.
+
+## References
+
+- [Defectors Slam Healthcare System After Fiasco - Sweden Herald](https://swedenherald.com/article/defectors-slam-healthcare-system-after-fiasco?utm_source=chatgpt.com)
+- [Oracle-Cerner EHR software flaw led to patient harm: VA OIG](https://www.fiercehealthcare.com/health-tech/va-watchdog-finds-software-flaw-oracle-cerner-ehr-led-patient-harm?utm_source=chatgpt.com)
+- [Implementing Agile Methodologies in Healthcare IT Projects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4987242&utm_source=chatgpt.com)
+- [Agile in Healthcare: Benefits and Challenges of Agile ... - PremierAgile](https://premieragile.com/agile-in-healthcare-benefits-challenges-agile-adoption-healthcare-industry/?utm_source=chatgpt.com)
+- [Scrapping the millennium: introduction of a health record in Sweden ...](https://www.heise.de/en/news/Scrapping-the-millennium-introduction-of-a-health-record-in-Sweden-fails-10323142.html?utm_source=chatgpt.com)
+- [Agile Healthcare: Enhancing Patient Care - Agile Digest](https://us.agiledigest.com/agile-healthcare/?utm_source=chatgpt.com)
