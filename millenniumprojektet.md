@@ -1,4 +1,4 @@
-# Milleniumprojektet
+# Millenniumprojektet
 
 Till skillnad från *The Phoenix Project* eller *The Unicorn Project* —
 fiktiva berättelser om hur trasiga IT-system räddas genom agila
