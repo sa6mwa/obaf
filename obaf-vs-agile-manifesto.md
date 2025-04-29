@@ -8,7 +8,7 @@
 > illustrative purposes only and should not be considered a definitive
 > or authoritative interpretation.*
 
-The **Outcome-Based Agile Framework** (OBAF) aligns **strongly and
+The [**Outcome-Based Agile Framework**](https://github.com/sa6mwa/obaf) (OBAF) aligns **strongly and
 thoughtfully** with the **original [Agile Manifesto](https://agilemanifesto.org/)**,
 while evolving and extending its principles in a modern,
 outcome-centric direction. Here's a breakdown of how well it fits with
