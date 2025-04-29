@@ -142,8 +142,8 @@ väger tyngre än förmodad visshet.
 2. **Arbetssätt**: Utforskning + Leverans (i återkommande steg)
 3. **Resultat**: Prövade idéer, modeller och leveranser
 4. **Utfall**: Verklig förändring (mätt)
-5. **Återkoppling**: Efterhandsgranskningar vägleder lärande och nästa
-   steg
+5. **Återkoppling**: Dialogbaserad reflektion enligt AAR vägleder
+   lärande och nästa steg
 
 ## Vägledning för arbetsledning
 
@@ -153,8 +153,9 @@ väger tyngre än förmodad visshet.
   (t.ex. 1–2 veckor)
 - **Lärandemetoder**: Använd kontinuerlig utforskning (samtal med
   användare, jämförande prövningar, analys av beteende)
-- **Utvärdering**: Använd efterhandsgranskningar för att förstå vad
-  som planerades, vad som hände, varför det hände, och vad som lärdes
+- **Utvärdering**: Använd en dialogbaserad reflektionsmetod (AAR) för
+  att förstå vad som planerades, vad som hände, varför det hände, och
+  vad som lärdes
 - **Stöd till ledare**: Utbilda beslutsfattare i att formulera mål
   snarare än att styra resultat
 
