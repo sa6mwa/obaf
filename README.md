@@ -29,8 +29,9 @@ delivering work.
 Because shared goals outlast specific ideas.
 
 That is, while there is value in outputs, defined scopes, and planned
-features, **we value the ability to learn and adapt toward real
-outcomes far more.**
+features,  
+**we value the ability to learn and adapt toward real outcomes far
+more.**
 
 ## Framework Tenets
 
@@ -104,6 +105,11 @@ Differences in team members' understanding are celebrated as learning
 opportunities rather than treated as errors. The goal is not for all
 team members to have identical views but to explore the richness of
 different perspectives.
+
+It is considered rude to interrupt team members while they are
+speaking. The facilitator should ensure that each team member has the
+opportunity to speak without interruption and can finish sharing their
+thoughts before others respond.
 
 Importantly, the "what did we learn" section, including any optional
 recording in a knowledge base, must never include the names of
