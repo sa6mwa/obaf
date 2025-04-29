@@ -66,12 +66,12 @@ of a solution.
 ### 6. Continuous Discovery Is Mandatory
 
 Discovery and delivery happen together. Teams explore problems, test
-assumptions, and validate ideas in real time.
+assumptions (solution hypotheses), and validate ideas in real time.
 
 ### 7. Evidence Is the Arbiter
 
 All decisions are made based on learning from real users and
-data. Plans are hypotheses, not contracts.
+data. **Plans are hypotheses**, not contracts.
 
 ### 8. Strategy Is Intent, Not Instruction
 
@@ -129,7 +129,7 @@ connects day-to-day work to broader organizational goals.
 Teams should be cross-functional, capable of discovery and delivery,
 and given end-to-end responsibility for their outcomes.
 
-Roadmaps become hypothesis backlogs. Requirements become
+**Roadmaps become hypothesis backlogs**. Requirements become
 constraints. Progress is measured not by story points, but by progress
 toward the desired change.
 
