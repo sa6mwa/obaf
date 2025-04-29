@@ -120,14 +120,18 @@ that fosters openness and continuous improvement.
 ## How to Apply This Framework
 
 Organizations adopting Outcome-Based Agile should begin by clearly
-defining the outcomes they seek. These should be real, measurable
-changes in user or business behavior. Teams should be
-cross-functional, capable of discovery and delivery, and given
-end-to-end responsibility for their outcomes.
+defining the outcomes they seek. These outcomes should not only be
+real, measurable changes in user or business behavior but also have a
+clearly articulated purpose. Clarifying *why* each outcome matters
+helps ensure alignment across teams, guides prioritization, and
+connects day-to-day work to broader organizational goals.
+
+Teams should be cross-functional, capable of discovery and delivery,
+and given end-to-end responsibility for their outcomes.
 
 Roadmaps become hypothesis backlogs. Requirements become
 constraints. Progress is measured not by story points, but by progress
-toward desired change.
+toward the desired change.
 
 Leadership must shift from steering work to enabling learning. Teams
 must shift from implementing solutions to exploring possibilities. And
