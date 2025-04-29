@@ -40,44 +40,49 @@ Work does not begin with a list of features, specifications, or
 outputs. Teams begin with problems to solve and outcomes to
 achieve. The only fixed inputs are constraints.
 
-### 2. Problem Ownership Over Task Execution
+### 2. Clarify the Purpose of the Outcome
+
+Ensure the team understands why the outcome matters—its strategic,
+operational, or user-centered importance—before starting the work.
+
+### 3. Problem Ownership Over Task Execution
 
 Teams are given ownership of a problem and trusted to determine how
 best to solve it within the defined boundaries.
 
-### 3. Outcomes Are Observable Changes
+### 4. Outcomes Are Observable Changes
 
 An outcome is a measurable shift in user behavior, business value, or
 system performance. Delivery is only valuable if it contributes to
 these shifts.
 
-### 4. Constraints Define Limits, Not Solutions
+### 5. Constraints Define Limits, Not Solutions
 
 Constraints—technical, legal, ethical, or otherwise—are real and
 respected. They inform exploration but must not dictate the final form
 of a solution.
 
-### 5. Continuous Discovery Is Mandatory
+### 6. Continuous Discovery Is Mandatory
 
 Discovery and delivery happen together. Teams explore problems, test
 assumptions, and validate ideas in real time.
 
-### 6. Evidence Is the Arbiter
+### 7. Evidence Is the Arbiter
 
 All decisions are made based on learning from real users and
 data. Plans are hypotheses, not contracts.
 
-### 7. Strategy Is Intent, Not Instruction
+### 8. Strategy Is Intent, Not Instruction
 
 Leaders set direction through vision and desired outcomes, not through
 detailed feature roadmaps.
 
-### 8. Simplicity of Governance
+### 9. Simplicity of Governance
 
 Governance exists to support autonomy and learning. It must be light,
 minimal, and enabling—never controlling.
 
-### 9. Regular Blameless Retrospectives Through After Action Reviews (AAR)
+### 10. Regular Blameless Retrospectives Through After Action Reviews (AAR)
 
 Teams must conduct regular retrospectives at intervals appropriate to
 their context (after iterations, deliveries, daily, weekly, or
@@ -134,8 +139,9 @@ certainty.
 
 ## Facilitation Guide
 
-1. **Kickoff Workshop:** Define the outcomes, surface constraints,
-   clarify team autonomy
+1. **Kickoff Workshop:** Define the outcomes, clarify the purpose
+   behind each outcome, surface constraints, and establish team
+   autonomy
 2. **Cadence Design:** Establish short cycles of delivery and feedback
    (e.g., 1-2 weeks)
 3. **Feedback Loops:** Embed continuous discovery methods (user
@@ -145,6 +151,14 @@ certainty.
    learned
 5. **Leadership Coaching:** Train sponsors and managers to support
    outcome framing, not output control
+
+## Key Reminders
+
+* If you are writing a solution before exploring the problem, pause.
+* If requirements are treated as fixed outputs, reframe them as
+  boundaries.
+* If retrospectives assign blame, reset the culture.
+* If decisions ignore evidence, restart the discovery.
 
 ## Conclusion
 
