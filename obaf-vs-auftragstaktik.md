@@ -41,7 +41,9 @@ brittle.
 
 ---
 
-This command philosophy is designed for **high agility in uncertainty**, making it a close analog to modern approaches in agile software development and organizational leadership.
+This command philosophy is designed for **high agility in
+uncertainty**, making it a close analog to modern approaches in agile
+software development and organizational leadership.
 
 # OBAF vs Mission Command
 
@@ -70,9 +72,14 @@ Here's a structured breakdown of how OBAF and Mission Command align:
 
 ### 🔶 Cultural Alignment
 
-- **Psychological Safety**: Mission Command assumes that mistakes are a part of initiative-taking. OBAF formalizes this through blameless retrospectives and celebration of diverse perspectives.
-- **Autonomy + Responsibility**: Both frameworks **delegate authority but retain accountability** to results—not tasks or orders.
-- **Anti-Bureaucratic**: Mission Command rejects micromanagement in favor of trust. OBAF’s “**Simplicity of governance**” mirrors this precisely.
+- **Psychological Safety**: Mission Command assumes that mistakes are
+  a part of initiative-taking. OBAF formalizes this through blameless
+  retrospectives and celebration of diverse perspectives.
+- **Autonomy + Responsibility**: Both frameworks **delegate authority
+  but retain accountability** to results—not tasks or orders.
+- **Anti-Bureaucratic**: Mission Command rejects micromanagement in
+  favor of trust. OBAF’s “**Simplicity of governance**” mirrors this
+  precisely.
 
 ---
 
@@ -82,4 +89,3 @@ Here's a structured breakdown of how OBAF and Mission Command align:
 
 In short:
 > **Mission Command in the military is what OBAF is to agile product teams.**
-
