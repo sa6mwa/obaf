@@ -11,168 +11,192 @@ och vägleds av bevis, inte antaganden.
 
 ## Manifest
 
-Vi upptäcker bättre sätt att skapa värde genom att fokusera på utfall
-i stället för utdata. Genom detta arbete har vi kommit att värdesätta:
+Vi utforskar bättre sätt att skapa värde genom att fokusera på utfall
+snarare än leveranser. Genom detta arbete har vi kommit att värdera:
 
-- **Utfall framför krav**  
-Därför att det är viktigare att lösa verkliga problem än att leverera
-förutbestämda lösningar.
-- **Begränsningar framför omfattning**  
-Därför att det är mer meningsfullt att förstå problemet än att i
-förväg bestämma dess lösning.
-- **Upptäckt framför visshet**  
-Därför att värde inte kan förutses – det måste upptäckas genom lärande.
-- **Ansvar för resultat framför lydnad mot planer**  
-Därför att arbetslag ska vara ansvariga för att åstadkomma förändring,
-inte enbart slutföra arbete.
-- **Gemensam avsikt framför enighet om funktioner**  
-Därför att gemensamma mål består längre än enskilda idéer.
+* **Utfall framför krav**
+  Eftersom problemlösning är viktigare än att leverera förutbestämda
+  lösningar.
+* **Begränsningar framför omfattning**
+  Eftersom att formulera problemet är mer produktivt än att föreskriva
+  dess svar.
+* **Upptäckande framför säkerhet**
+  Eftersom vi inte kan förutse värde—vi måste finna det genom lärande.
+* **Ansvar för resultat framför efterlevnad av planer**
+  Eftersom arbetslag bör vara ansvariga för att åstadkomma förändring,
+  inte bara leverera arbete.
+* **Samordning kring intention framför enighet om funktioner**
+  Eftersom gemensamma mål överlever specifika idéer.
 
-Det vill säga: även om det finns ett värde i utdata, definierad
-omfattning och planerade funktioner, så värdesätter vi förmågan att
-lära och anpassa oss mot verkliga utfall betydligt högre.
+Det vill säga, även om det finns värde i leveranser, definierad
+omfattning och planerade funktioner, **värderar vi förmågan att lära
+och anpassa oss mot verkliga utfall mycket högre.**
 
 ## Ramverkets Grundsatser
 
-### 1. Inga förhandskrav
+### 1. Inga krav i förväg
 
-Arbetet inleds inte med en lista över funktioner eller
-specifikationer. Arbetslaget börjar med problem att lösa och utfall
-att uppnå. De enda fasta ramarna är givna begränsningar.
+Arbete startar inte med en lista av funktioner, specifikationer eller
+leveranser. Arbetslag börjar med problem att lösa och utfall att
+uppnå. De enda fasta indata är begränsningarna.
 
-### 2. Tydliggör syftet med utfallet
+### 2. Klargör syftet med utfallet
 
-Säkerställ att arbetslaget förstår varför utfallet är viktigt –
-strategiskt, verksamhetsmässigt eller ur användarens synvinkel – innan
-arbetet påbörjas.
+Se till att arbetsgruppen förstår varför utfallet är viktigt—dess
+strategiska, operativa eller användarcentrerade betydelse—innan
+arbetet påbörjas. Kvalitetsattribut definierar ofta vad som anses vara
+"bra" för ett visst utfall. Gruppen bör tydliggöra vilka attribut
+(t.ex. användbarhet, tillförlitlighet, prestanda, säkerhet) som är
+avgörande för framgång och säkerställa att dessa uttryckligen ingår i
+den avsedda effekten.
 
-### 3. Ägarskap av problem framför uppgiftsutförande
+### 3. Problemägande framför uppgiftsutförande
 
-Arbetslaget får ansvar för ett problem och förtroende att själva
-avgöra hur det bäst ska lösas inom de givna gränserna.
+Arbetslag får ägandeskap över ett problem och förtroende att själva
+avgöra hur det bäst löses inom de angivna ramarna.
 
-### 4. Utfall är märkbara förändringar
+### 4. Utfall är observerbara förändringar
 
-Ett utfall innebär en mätbar förändring i användarbeteende,
-verksamhetsvärde eller systemets funktion. Leverans har endast ett
-värde om den bidrar till sådan förändring.
+Ett utfall är en mätbar förändring i användarbeteende, affärsvärde
+eller systemprestanda. Leverans är bara värdefull om den bidrar till
+dessa förändringar. Detta inkluderar förbättringar i icke-funktionella
+områden som användbarhet, systemets tillförlitlighet, effektivitet i
+leverans och säkerhet. Kvalitetsattribut måste vara observerbara och
+verifierbara som en del av valideringen av utfallet.
 
-### 5. Begränsningar sätter ramar, inte lösningar
+### 5. Begränsningar definierar ramar, inte lösningar
 
-Tekniska, rättsliga, etiska eller andra begränsningar är verkliga och
-ska respekteras. De vägleder utforskningen men får inte bestämma
-lösningens utformning.
+Begränsningar—tekniska, juridiska, etiska eller andra—är verkliga och
+ska respekteras. De informerar utforskningen men får inte diktera
+lösningens slutliga form.
 
-### 6. Ständig utforskning är ett krav
+### 6. Kontinuerlig upptäckt är ett krav
 
-Utforskning och leverans sker parallellt. Arbetslaget undersöker
-problem, prövar antaganden (hypoteser) och bekräftar idéer i
-verkligheten.
+Utforskning och genomförande sker parallellt. Arbetsgruppen undersöker
+problem, testar antaganden (lösningshypoteser) och bekräftar idéer i
+praktiken. Det innefattar att ta reda på vilka kvalitetsattribut som
+är viktigast i sammanhanget och att löpande verifiera dem med
+användare eller andra berörda.
 
-### 7. Bevis väger tyngst
+### 7. Bevis är avgörande
 
-Alla beslut grundas på kunskap från verkliga användare och
-fakta. **Planer ses som hypoteser**, inte som avtal.
+Alla beslut fattas baserat på lärande från verkliga användare och
+data. **Planer är hypoteser**, inte kontrakt.
 
-### 8. Strategi är inriktning, inte instruktion
+### 8. Strategi är intention, inte instruktion
 
-Ledningen sätter mål och önskade utfall – inte detaljerade
-funktionstabeller.
+Ledare sätter riktning genom vision och önskade utfall, inte genom
+detaljerade funktionskartor.
 
 ### 9. Enkel styrning
 
-Styrning ska stödja självständighet och lärande. Den ska vara
-lättviktig, enkel och möjliggörande – aldrig styrande.
+Styrning finns för att stödja autonomi och lärande. Den måste vara
+lätt, minimal och möjliggörande—aldrig kontrollerande.
 
-### 10. Regelbundna lärandesamtal utan skuld – After Action Review (AAR)
+### 10. Regelbundna retrospektiver utan skuld genom After Action Reviews (AAR)
 
-Arbetslag ska regelbundet hålla lärandesamtal i en takt som passar
-deras sammanhang (efter arbetscykler, leveranser, dagligen, veckovis
-eller enligt behov). Den föreslagna formen är den systematiska
-dialogbaserade reflektionsmetoden *After Action Review* (AAR) med fyra
-öppna och strukturerade frågor:
+Arbetsgrupper ska genomföra regelbundna reflektioner i ett intervall
+som passar deras situation (efter arbetscykler, leveranser, dagligen,
+veckovis eller i kombination). Det rekommenderade formatet är *After
+Action Review* (AAR), som bygger på fyra strukturerade och skuldfria
+frågor:
 
-- **Vad var det som skulle hända?** (Vad var planen?)
-- **Vad hände i verkligheten?**
-- **Varför hände det?**
-- **Vad lärde vi oss?**
+* **Vad var det som skulle hända?** (Vad var planen?)
+* **Vad hände?** (Vad hände i praktiken?)
+* **Varför hände det?** (Grundorsaker och bidragande faktorer)
+* **Vad lärde vi oss?** (Insikter och anpassningar)
 
-Varje fråga behandlas var för sig av hela arbetslaget. Samtalen om vad
-som var planerat, vad som faktiskt skedde och varför det skedde hålls
-isär för att undvika sammanblandning av fakta och tolkning. Lärdomar
-kan dokumenteras när som helst under avsnittet ”vad lärde vi oss”.
+Varje fråga diskuteras separat och i turordning av hela
+gruppen. Diskussionerna om vad som var planerat, vad som hände och
+varför måste hållas åtskilda för att undvika att blanda fakta med
+analys. Lärdomar kan dokumenteras när som helst under "vad lärde vi
+oss".
 
-Skillnader i hur arbetslagets medlemmar uppfattar vad som skett ses
-som möjligheter till lärande – inte som fel. Målet är inte att alla
-ska vara eniga, utan att förstå olika perspektiv.
+Skillnader i gruppmedlemmars uppfattningar ses som tillfällen till
+lärande snarare än fel. Målet är inte att alla ska tänka likadant utan
+att utforska olika perspektiv.
 
-Det anses ohövligt att avbryta någon som talar. Samtalsledaren ska se
-till att alla får tala till punkt innan andra svarar.
+Det betraktas som ohövligt att avbryta någon under
+samtal. Mötesledaren ska se till att alla får tala till punkt innan
+andra kommenterar.
 
-Viktigt: Avsnittet "vad lärde vi oss", och eventuell dokumentation,
-får aldrig innehålla namn på enskilda personer. Endast lärdomar – utan
-koppling till individer – ska antecknas, för att skapa en skuld- och
-prestigelös miljö som främjar öppenhet och förbättring.
+Viktigt: avsnittet "vad lärde vi oss", inklusive eventuell
+dokumentation i en kunskapsbas, får aldrig innehålla namn på enskilda
+personer. Endast lärdomar, utan koppling till individer, dokumenteras
+för att skapa en helt skuldfri miljö som främjar öppenhet och ständig
+förbättring.
 
-## Hur man tillämpar ramverket
+## Så tillämpar man ramverket
 
-Organisationer som vill arbeta enligt ett utfallsbaserat agilt
-förhållningssätt bör börja med att tydligt formulera vilka utfall de
-vill uppnå. Dessa utfall ska vara verkliga och mätbara förändringar i
-användar- eller verksamhetsbeteende och ha ett tydligt syfte. Att
-förstå varför varje utfall är viktigt skapar samordning, hjälper till
-att välja rätt arbete, och kopplar det dagliga arbetet till
-övergripande mål.
+Organisationer som vill införa utfallsbaserat agilt arbetssätt bör
+börja med att tydligt definiera vilka utfall de vill uppnå. Dessa ska
+inte bara vara verkliga, mätbara förändringar i användar- eller
+affärsbeteende, utan också ha ett tydligt syfte. Att tydliggöra
+*varför* varje utfall är viktigt skapar samstämmighet mellan grupper,
+styr prioriteringar och kopplar det dagliga arbetet till större mål.
 
-Arbetslagen ska vara tvärfunktionella, kunna både utforska och
-leverera, och ha ansvar från början till slut för sina utfall.
+När man definierar och strävar mot utfall bör arbetsgrupperna särskilt
+beakta vilka kvalitetsattribut som är avgörande för att åstadkomma
+önskad förändring. Dessa attribut—som säkerhet, ändamålsenlighet,
+användbarhet, tillförlitlighet, underhållsmöjlighet, kompatibilitet
+eller effektivitet i driftsättning—ska ses som en del av själva
+utfallet, inte som sidokrav. Attributen bör ses som hypoteser att
+testa, mätas under arbetets gång och utvärderas genom direkt
+återkoppling och faktaunderlag, inte antas uppstå automatiskt.
 
-Färdplaner blir listor över prövbara antaganden. Krav blir till
-ramar. Framsteg mäts inte i arbetsmått, utan i faktisk närhet till
-önskad förändring.
+Arbetsgrupperna bör vara tvärfunktionella, kapabla att både utforska
+och leverera, och ha helhetsansvar för sina utfall.
 
-Ledarskapet ska gå från att styra arbete till att möjliggöra
-lärande. Arbetslag ska gå från att genomföra lösningar till att
-utforska möjligheter. Organisationen ska ge utrymme för att bevis
-väger tyngre än förmodad visshet.
+**Vägkartor blir hypoteslistor**. Krav blir begränsningar. Framsteg
+mäts inte i arbetsuppgifter, utan i närmande till önskat resultat.
 
-## Översikt över arbetsgången
+Ledarskap måste förflyttas från att styra arbete till att möjliggöra
+lärande. Arbetsgrupper måste gå från att implementera lösningar till
+att utforska möjligheter. Organisationen måste skapa utrymme där bevis
+väger mer än antaganden.
 
-1. **Ingång**: Utfall + Begränsningar
-2. **Arbetssätt**: Utforskning + Leverans (i återkommande steg)
-3. **Resultat**: Prövade idéer, modeller och leveranser
-4. **Utfall**: Verklig förändring (mätt)
-5. **Återkoppling**: Dialogbaserad reflektion enligt AAR vägleder
-   lärande och nästa steg
+## Enkel processöversikt
 
-## Vägledning för arbetsledning
+1. **Indata:** Utfall + Begränsningar
+2. **Process:** Utforskning + Genomförande (iterativt)
+3. **Utdata:** Validerade experiment, prototyper och leveranser
+4. **Utfall:** Mätbar förändring i verkligheten
+5. **Återkoppling:** After Action Reviews (AARs) informerar lärande
+   och nästa steg
 
-- **Startmöte**: Fastställ utfall, klargör syfte, synliggör
-  begränsningar och skapa självständighet i arbetslaget
-- **Arbetsrytm**: Skapa korta cykler för arbete och återkoppling
-  (t.ex. 1–2 veckor)
-- **Lärandemetoder**: Använd kontinuerlig utforskning (samtal med
-  användare, jämförande prövningar, analys av beteende)
-- **Utvärdering**: Använd en dialogbaserad reflektionsmetod (AAR) för
-  att förstå vad som planerades, vad som hände, varför det hände, och
-  vad som lärdes
-- **Stöd till ledare**: Utbilda beslutsfattare i att formulera mål
-  snarare än att styra resultat
+## Facilitationsguide
+
+1. **Startmöte:** Definiera utfallen, klargör syftet bakom varje
+   utfall, identifiera begränsningar och etablera arbetsgruppens
+   självständighet
+2. **Tidsindelning:** Etablera korta cykler för genomförande och
+   återkoppling (t.ex. 1–2 veckor)
+3. **Lärloopar:** Inbygg kontinuerliga utforskningsmetoder
+   (användarsamtal, jämförelsetester, analysgenomgångar)
+4. **Utvärderingsrutiner:** Använd retrospektiver i form av AAR för
+   att fokusera på vad som planerades, vad som hände, varför det hände
+   och vad som lärdes
+5. **Ledarstöd:** Utbilda sponsorer och chefer i att stödja
+   formulering av utfall snarare än att styra leveranser
 
 ## Viktiga påminnelser
 
-- Om du skriver en lösning innan du har förstått problemet – stanna
-  upp.
-- Om krav ses som färdiga resultat – omformulera dem som ramar.
-- Om samtal leder till skuld – ändra kulturen.
-- Om beslut fattas utan bevis – börja om utforskningen.
+* Om du formulerar en lösning innan du förstår problemet – stanna upp.
+* Om krav behandlas som färdiga leveranser – omformulera dem som
+  begränsningar.
+* Om retrospektiver leder till skuld – ändra kulturen.
+* Om beslut bortser från bevis – starta om utforskningen.
 
-## Avslutande ord
+## Avslutning
 
-Utfallsbaserad agilitet är ingen metod – det är ett återvändande till
-vad det agila arbetssättet alltid varit ämnat att vara:
-anpassningsbart, användarcentrerat och värdefokuserat. Det är en
-uppmaning att släppa illusionen om kontroll och i stället söka
-tydlighet, framsteg och verklig verkan.
+Utfallsbaserat agilt ramverk är inte en metodik; det är ett
+återåtagande till vad agilitet alltid var tänkt att vara: adaptiv,
+användarcentrerad och värdedriven. Det är en uppmaning att släppa
+kontrollens illusion till förmån för klarhet, framsteg och verklig
+påverkan.
 
 **Utfall, inte utdata. Alltid.**
+
+## Undertecknare
+
+* *Michel Blomgren [sa6mwa@gmail.com](mailto:sa6mwa@gmail.com) (2025-04-26)*
