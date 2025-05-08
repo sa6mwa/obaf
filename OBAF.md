@@ -44,7 +44,11 @@ achieve. The only fixed inputs are constraints.
 ### 2. Clarify the Purpose of the Outcome
 
 Ensure the team understands why the outcome matters—its strategic,
-operational, or user-centered importance—before starting the work.
+operational, or user-centered importance—before starting the
+work. Quality attributes often define what "good" looks like for a
+given outcome. Teams should clarify which attributes (e.g., usability,
+reliability, performance, security) are essential for success, and
+ensure those are explicitly part of the intended impact.
 
 ### 3. Problem Ownership Over Task Execution
 
@@ -55,7 +59,10 @@ best to solve it within the defined boundaries.
 
 An outcome is a measurable shift in user behavior, business value, or
 system performance. Delivery is only valuable if it contributes to
-these shifts.
+these shifts. This includes improvements in non-functional areas like
+usability, system reliability, deployment efficiency, and
+security. Quality attributes must be observable and verifiable as part
+of outcome validation.
 
 ### 5. Constraints Define Limits, Not Solutions
 
@@ -66,7 +73,10 @@ of a solution.
 ### 6. Continuous Discovery Is Mandatory
 
 Discovery and delivery happen together. Teams explore problems, test
-assumptions (solution hypotheses), and validate ideas in real time.
+assumptions (solution hypotheses), and validate ideas in real
+time. This includes discovering which quality attributes matter most
+in the context and validating them with users or stakeholders
+continuously.
 
 ### 7. Evidence Is the Arbiter
 
@@ -125,6 +135,16 @@ real, measurable changes in user or business behavior but also have a
 clearly articulated purpose. Clarifying *why* each outcome matters
 helps ensure alignment across teams, guides prioritization, and
 connects day-to-day work to broader organizational goals.
+
+In defining and pursuing outcomes, teams should explicitly consider
+which quality attributes are critical to achieving the desired
+change. These attributes—such as security, suitability, usability,
+reliability, maintainability, compatibility, or deployment
+efficiency—must be treated as part of the outcome, not as secondary
+requirements. Quality attributes should be framed as hypotheses to
+test, measured as part of delivery, and evaluated through direct
+feedback and evidence, not assumed as implicit side effects of feature
+development.
 
 Teams should be cross-functional, capable of discovery and delivery,
 and given end-to-end responsibility for their outcomes.
