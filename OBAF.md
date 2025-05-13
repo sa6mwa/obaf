@@ -8,10 +8,10 @@ value delivery. Inspired by the original
 a model where teams are driven by **outcomes**, **not requirements**,
 and guided by evidence, not assumption.
 
-> **Common Misreadings**
+> **_Common Misreadings_**
 >
-> * **No Upfront Requirements** does **not** mean chaos. It means starting
->   with **intent**, not **specification**.
+> * **No Upfront Requirements** does **not** mean chaos. It means
+>   starting with **intent**, not **specification**.
 > * **Governance exists to support autonomy** does **not** imply lack
 >   of structure. It means governance should **enable**, not
 >   **control**.
@@ -174,67 +174,208 @@ must shift from implementing solutions to exploring possibilities. And
 the organization must create space for evidence to matter more than
 certainty.
 
-### Outcome Cards
+## Recommended Way of Working
 
-To make outcomes actionable, teams and leaders should express each one
-as an **Outcome Card**—a structured, lightweight artifact that
-captures intent, ownership, signals, and constraints in a single view.
+This framework **recommends—not prescribes—a structured yet adaptable
+approach** to outcome-driven planning and experimentation. It provides
+a practical system for making not just work visible, but also for
+surfacing **intent, constraints, signals, learnings, and measurable
+results**.
 
-#### What Is an Outcome Card?
+At its core is a **1+5 nested loop**, designed to align rapid action
+with reflective learning. This structure guides teams through
+continuous cycles of intent-setting, hypothesis-building, execution,
+and adaptation—without imposing rigid process overhead.
 
-An **Outcome Card** defines a desired change, not a task. It helps
-teams understand:
+The six parts of the loop are:
 
-* What matters
-* Why it matters
-* What boundaries to respect
-* How success might be observed
+0. Establish Feedback Loops Early
+1. Create an Outcome Card
+2. Initialize an Experiment Canvas
+3. Plan Using the Recognitional Planning Model (RPM)
+4. Translate CoA into Executable Tasks via an Exploratory Kanban Board
+5. Facilitate After Action Reviews (AARs)
 
-Outcome Cards guide discovery, align stakeholders, and ensure clarity
-without prescribing solutions.
+### 0. Establish Feedback Loops Early
 
-#### Anatomy of an Outcome Card
+Before initiating any outcome or experiment, prioritize the creation
+of **instant or near-instant feedback mechanisms** that are specific
+to your domain and operational context. These loops form the backbone
+of your ability to validate decisions in real-time and to pivot based
+on emerging insights.
 
-Each card should include the following elements:
+Without timely feedback, experimentation risks becoming
+guesswork. Feedback loops ensure that learning is continuous,
+grounded, and actionable.
 
-| Field                  | Description                                                                                                     |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Outcome Title**      | Short, active statement of the desired change (e.g., “Reduce onboarding time”)                                  |
-| **Purpose / Why**      | The strategic, user-centered, or operational reason this outcome matters                                        |
-| **Signals of Success** | Metrics or qualitative observations that indicate progress (can include both quantitative and qualitative data) |
-| **Constraints**        | Fixed boundaries such as legal, ethical, or technical limits                                                    |
-| **Quality Attributes** | Specific attributes that define what “good” looks like (e.g., usability, reliability)                           |
-| **Team Owner(s)**      | Who is responsible for exploring and delivering this outcome                                                    |
-| **Current Confidence** | A self-assessed level (e.g., High, Medium, Low) based on available evidence and clarity                         |
-| **Discovery Notes**    | Recent learning, key hypotheses, or active experiments related to this outcome                                  |
-| **Target Timeframe**   | A flexible time horizon for when meaningful signals should emerge                                               |
+> *Tip: Consider making this one of your first Outcome Cards—ensuring
+> early visibility into what’s working and what’s not.*
 
-#### Example Outcome Card
+### 1. Create an Outcome Card
 
-```
-**Title:** Reduce Onboarding Time for New Customers
+Start by defining a clear, focused **intent** that communicates the
+outcome you aim to achieve. The **Outcome Card** acts as a central
+alignment artifact—anchoring planning, experimentation, and execution
+in a shared understanding of purpose, constraints, and context.
 
-- **Purpose:** Improve time-to-value and reduce churn risk
-- **Signals:** Avg onboarding duration (quant), support calls (qual),
-  feedback sentiment
-- **Constraints:** Legal (KYC compliance), platform limitations
-- **Quality Attributes:** Simplicity, reliability
-- **Owner:** Pod Delta
-- **Current Confidence:** Medium – discovery ongoing
-- **Discovery Notes:** Testing new flow, user interviews show friction
-  in identity check
-- **Target Timeframe:** 60 days
-```
+The Outcome Card should be concise yet rich enough to guide action and
+adaptation. Populate it with the following elements:
 
-#### Using Outcome Cards in Practice
+* **Context** – The situational background or environmental conditions
+  that give rise to the need for action. This ensures that all
+  stakeholders understand the circumstances under which the intent is
+  being pursued.
 
-* Teams should create and regularly update cards as part of planning,
-  discovery, and delivery.
-* Leadership can review Outcome Cards in place of traditional project
-  plans to track learning and outcome progress.
-* A shared **Outcome Portfolio** can be created by organizing multiple
-  cards across strategic themes or domains, enabling cross-team
-  alignment at scale.
+* **Intent** – Expressed as a combination of:
+  * **End-State** – The desired result or condition to be achieved.
+  * **Constraints** – Boundaries that must not be violated (e.g.,
+    safety, policy, cost).
+  * **Purpose (IOT)** – The strategic or operational rationale behind
+    the intent; typically phrased as *“in order to...”*
+
+	> **Example:**  
+	> *Intent: "Prevent the fire from reaching the gas station
+	> (end-state), without risking firefighter safety (constraint), in
+	> order to maintain critical infrastructure and avoid civilian
+	> casualties (purpose)."*
+
+	> *Tip: Use the full intent statement as the title of the Outcome
+	> Card. This helps keep constraints visible and prevents them from
+	> silently transforming into assumptions or rigid requirements.*
+
+* **Signals of Success** – Preliminary indicators—quantitative or
+  qualitative—that suggest progress toward the end-state. These can
+  evolve over time but serve as an early compass for situational
+  awareness and adaptation.
+
+* **Quality Attributes** – Non-functional or qualitative properties
+  that help define what “good” looks like for the outcome. Examples
+  may include **resilience**, **scalability**, **safety**, or **ease
+  of use**, depending on the domain.
+
+* **Owner** – The team accountable for exploring and delivering this
+  outcome. This provides a clear point of ownership for planning,
+  execution, and follow-through.
+
+* **Target Timeframe** – A flexible but bounded estimate for when
+  meaningful signals or results should emerge. It helps scope the
+  experiment and prevent stagnation, while leaving room for complexity
+  and adaptation.
+
+### 2. Initialize an Experiment Canvas
+
+After defining your Outcome Card, the next step is to set up an
+**Experiment Canvas**. This canvas serves as the operational bridge
+between **intent** and **execution**, capturing the hypothesis, tasks,
+and learning that emerge throughout the experimentation cycle. It is
+designed to evolve over time and supports structured reflection,
+making learning explicit and reusable.
+
+The **OBAF-format Experiment Canvas** consists of six fields, arranged
+in a 3-column × 2-row layout. Each field plays a distinct role:
+
+* **Linked Outcome Card** – Reference the Outcome Card that defines
+  the intent. This ensures traceability between strategic objectives
+  and the work being tested.
+
+* **Hypothesis CoA** – This field holds the Course of Action (CoA)
+  derived from the RPM planning session. It should be framed as a
+  testable hypothesis.
+
+  > *Leave this blank until the planning session has produced a CoA.*
+
+* **Evaluation Criteria** – Define the boundaries of success:
+  thresholds, tolerances, or conditions under which the hypothesis can
+  be considered valid or invalid.
+
+* **Experiment Steps** – These are actionable, testable steps based on
+  the CoA, typically broken down into tasks for the **Exploratory
+  Kanban** board.
+
+  > *Leave this blank until after the planning session.*
+
+* **Indicators and Metrics** – List the observable, measurable signals
+  that will help determine whether the intended outcomes are being
+  achieved. These can be both quantitative (e.g., response times,
+  completion rates) and qualitative (e.g., observed behavior, feedback
+  themes).
+
+* **Results and Learnings** – Populated progressively through **After
+  Action Reviews (AARs)**. Capture what occurred during execution,
+  what outcomes were observed, and what insights were gained—both from
+  successes and failures.
+
+### 3. Plan Using the Recognitional Planning Model (RPM)
+
+Conduct a focused planning session using the **Recognitional Planning
+Model**, which supports rapid, experience-driven
+decision-making—especially under uncertainty, time pressure, or
+incomplete information. Rather than evaluating multiple alternatives,
+RPM relies on pattern recognition to generate a single, viable
+**Course of Action (CoA)** based on the decision-maker’s mental model
+of the situation.
+
+This CoA becomes your **operational hypothesis**, a testable narrative
+of how the outcome will be achieved under the given constraints and
+context.
+
+Update the **Experiment Canvas** with the following elements:
+
+* **Hypothesis CoA** – Capture the planned course of action in a
+  narrative format, ideally structured as a three-phase progression:
+  *“Initially, we...; thereafter, we...; and finally, we...”*  This
+  storytelling form improves clarity, alignment, and memory
+  recall—especially in complex or time-critical operations.
+
+* **Evaluation Criteria** – Define what success looks like by
+  specifying thresholds, tolerances, or boundaries that must be met
+  for the outcome to be considered achieved.
+
+* **Indicators and Metrics** – Identify the signals—both quantitative
+  and qualitative—that will be used to track progress and validate
+  whether the intended effects are occurring.
+
+* **Falsifiability Check** – Confirm that the hypothesis is **testable
+  and falsifiable**, ensuring that failure to achieve the expected
+  outcome can be clearly recognized and learned from.
+
+### 4. Translate CoA into Executable Tasks
+
+Convert the CoA into a set of small, testable **execution tasks**.
+These tasks enter the **Exploratory Kanban Board**, where the focus is
+on maintaining momentum while preserving the ability to learn and
+adjust. The board is optimized for flow and responsiveness,
+supporting:
+
+* **Limited batch size** – Prevent buildup of large queues and reduce
+  overloaded work-in-progress (WIP).
+* **Small work items** – Scope tasks tightly to enable rapid feedback
+  and easier course correction.
+* **Continuous integration** – Ensure that insights, deliverables, and
+  results are continuously folded back into both the **Experiment
+  Canvas** and any relevant technical workflows, such as code merges
+  and deployments.
+
+### 5. Facilitate After Action Reviews (AARs)
+
+Schedule **regular After Action Reviews**, or trigger them
+contextually—for example, when the backlog runs thin or a natural
+breakpoint occurs in execution. AARs are essential for
+institutionalizing learning and deciding whether to reinforce, adjust,
+or abandon a given CoA.
+
+In each AAR:
+
+* Compare outcomes to the hypothesis
+* Assess what succeeded, failed, or surprised
+* Update the **Experiment Canvas** with:
+
+  * Refined metrics and indicators
+  * New contextual insights
+  * Results and documented learning
+
+These updates may inform refinements to the current Outcome Card or
+trigger a new iteration of the planning and experimentation cycle.
 
 ### Outcome vs. Output
 
@@ -253,15 +394,37 @@ for outcomes, when the true goal is behavioral or value-based (e.g.,
 
 #### Outcome vs. Output Examples
 
-| **Outcome** (Change in behavior or value) | **Signals** (Evidence of change)                 | **Outputs** (Delivered items)                    |
-| ----------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| Users complete tasks faster               | Task completion rate, drop-off reduction         | Page speed optimization, simplified UI steps     |
-| Increase self-service account setup       | % of accounts created without human intervention | Redesigned onboarding flow, automated support    |
-| Fewer password-related support tickets    | Support volume, user feedback                    | “Forgot Password” UX update, validation system   |
-| Greater trust in billing                  | Reduced billing complaints, improved NPS         | Transparent invoice design, usage tooltips       |
-| Increased usage of scheduling feature     | Feature adoption rate, repeat usage              | Feature release, onboarding prompt, help content |
+1. **Outcome:** Users complete tasks faster  
+   **Signals of change:** Higher task completion rates and a reduction
+   in user drop-offs  
+   **Related outputs:** Page speed improvements and a streamlined user
+   interface with fewer steps
 
-> **Example:**
+2. **Outcome:** More users set up their accounts through self-service  
+   **Signals of change:** Increased percentage of accounts created
+   without needing human assistance  
+   **Related outputs:** Redesigned onboarding experience and automated
+   support tools  
+
+3. **Outcome:** Fewer users require support for password issues  
+   **Signals of change:** Lower volume of support tickets and positive
+   user feedback  
+   **Related outputs:** Enhanced "Forgot Password" functionality and
+   better input validation  
+
+4. **Outcome:** Users trust billing processes more  
+   **Signals of change:** Fewer billing-related complaints and higher
+   Net Promoter Score (NPS)  
+   **Related outputs:** Clearer invoice layouts and helpful usage
+   explanations via tooltips  
+
+5. **Outcome:** Increased usage of the scheduling feature  
+   **Signals of change:** Higher adoption and more frequent usage of
+   the feature  
+   **Related outputs:** Launch of the feature, onboarding guidance,
+   and supportive help content  
+
+> **Example:**  
 > “Improve page load time” is an **output** (a quality attribute).
 > “Increase checkout completion rate” is the **outcome**. The former
 > contributes to the latter, but **is not the outcome itself**.
