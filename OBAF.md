@@ -10,10 +10,10 @@ and guided by evidence, not assumption.
 
 > **_Common Misreadings_**
 >
-> * **No Upfront Requirements** does **not** mean chaos. It means
+> * **"No Upfront Requirements"** does **not** mean chaos. It means
 >   starting with **intent**, not **specification**.
-> * **Governance exists to support autonomy** does **not** imply lack
->   of structure. It means governance should **enable**, not
+> * **"Governance exists to support autonomy"** does **not** imply
+>   lack of structure. It means governance should **enable**, not
 >   **control**.
 
 ## Manifesto
@@ -174,7 +174,7 @@ must shift from implementing solutions to exploring possibilities. And
 the organization must create space for evidence to matter more than
 certainty.
 
-## Recommended Way of Working
+## Recommended Implementation
 
 This framework **recommends—not prescribes—a structured yet adaptable
 approach** to outcome-driven planning and experimentation. It provides
@@ -262,6 +262,33 @@ adaptation. Populate it with the following elements:
   experiment and prevent stagnation, while leaving room for complexity
   and adaptation.
 
+* **Supporting Outcomes** – Outcomes that contribute to the
+  achievement of this primary intent. If an Outcome Card includes
+  supporting outcomes, it is considered a **north-star Outcome
+  Card**—typically used at the departmental, portfolio, or
+  organizational level to anchor strategic direction.
+
+A **north-star Outcome Card** should be **broad in definition** and
+**non-prescriptive**—avoiding early commitments to specific
+technologies, solutions, or metrics. Its role is to align diverse
+efforts without constraining how they’re executed.
+
+North-star Outcome Cards **do not require an Experiment Canvas**,
+though they may include one if exploration or iteration at the
+strategic level is needed. Their progress is often tracked through
+high-level **signals of success** and realized through the coordinated
+impact of supporting outcomes.
+
+Each **supporting outcome** must be documented in its own Outcome Card
+and **must include an associated Experiment Canvas**. This ensures
+that supporting outcomes are actionable, testable, and owned—allowing
+teams to iterate, adapt, and deliver in alignment with the broader
+intent.
+
+> *Tip: Use supporting outcomes to translate strategic goals into
+> concrete work across teams—maintaining clarity of direction while
+> enabling decentralized execution.*
+
 ### 2. Initialize an Experiment Canvas
 
 After defining your Outcome Card, the next step is to set up an
@@ -271,39 +298,90 @@ and learning that emerge throughout the experimentation cycle. It is
 designed to evolve over time and supports structured reflection,
 making learning explicit and reusable.
 
-The **OBAF-format Experiment Canvas** consists of six fields, arranged
-in a 3-column × 2-row layout. Each field plays a distinct role:
+The OBAF-format Experiment Canvas is made up of seven hexagons—six
+arranged in a circle around a central one. Each outer hexagon connects
+directly to the center, which anchors the experiment to its strategic
+outcome. The outer hexagons are positioned like points on a clock
+face, and moving clockwise through them mirrors the natural flow of
+running an experiment—from forming a hypothesis to capturing results
+and learnings. This structure helps keep every part of the experiment
+aligned with its intended outcome and purpose.
 
-* **Linked Outcome Card** – Reference the Outcome Card that defines
-  the intent. This ensures traceability between strategic objectives
-  and the work being tested.
+1. **Center Hexagon – Outcome Definition**
 
-* **Hypothesis CoA** – This field holds the Course of Action (CoA)
-  derived from the RPM planning session. It should be framed as a
-  testable hypothesis.
+At the center of the canvas is the outcome definition, representing
+the strategic objective the experiment is ultimately serving. This
+hexagon contains the linked **Outcome Card**, which anchors the work
+to the broader outcome portfolio and provides traceability between the
+strategic goals and the experiment being conducted. Everything else in
+the canvas connects back to this core definition, maintaining
+alignment with the intended impact.
 
-  > *Leave this blank until the planning session has produced a CoA.*
+2. **12 o’clock – Hypothesis (Course of Action)**
 
-* **Evaluation Criteria** – Define the boundaries of success:
-  thresholds, tolerances, or conditions under which the hypothesis can
-  be considered valid or invalid.
+At the top of the canvas is the hexagon that holds the hypothesis
+under test. This is expressed as a *Course of Action* (CoA), developed
+during the RPM planning session. The hypothesis should be a clearly
+stated, testable assumption—describing what you expect will happen if
+a particular action is taken. It links a proposed intervention to an
+anticipated outcome, allowing the team to validate or challenge that
+assumption through experimentation. To provide clarity and structure,
+the Course of Action is ideally broken into three phases:
+**initially**, to outline the first steps; **thereafter**, to describe
+the follow-on actions; and **finally**, to define how the effort will
+conclude or transition.
 
-* **Experiment Steps** – These are actionable, testable steps based on
-  the CoA, typically broken down into tasks for the **Exploratory
-  Kanban** board.
+> *Leave this blank until the planning session has produced a CoA.*
 
-  > *Leave this blank until after the planning session.*
+3. **1:30 – Evaluation Criteria**
 
-* **Indicators and Metrics** – List the observable, measurable signals
-  that will help determine whether the intended outcomes are being
-  achieved. These can be both quantitative (e.g., response times,
-  completion rates) and qualitative (e.g., observed behavior, feedback
-  themes).
+Moving clockwise, the next hexagon defines the evaluation criteria for
+the experiment. This includes the thresholds, conditions, or
+boundaries that determine whether the hypothesis can be considered
+valid. It sets the standards against which success will be judged,
+such as acceptable tolerances or target ranges, and is critical for
+determining when to pivot, persevere, or stop the experiment
+altogether.
 
-* **Results and Learnings** – Populated progressively through **After
-  Action Reviews (AARs)**. Capture what occurred during execution,
-  what outcomes were observed, and what insights were gained—both from
-  successes and failures.
+4. **4:30 – Metrics**
+
+The next hexagon contains the metrics that will be observed and
+measured throughout the experiment. These signals provide evidence of
+whether the intended outcomes are being achieved. Metrics may be
+quantitative, such as performance indicators or usage statistics, or
+qualitative, such as user behavior or feedback themes. They should be
+directly relevant to both the evaluation criteria and the defined
+outcome, providing insight into whether progress is being made.
+
+5. **6 o’clock – Experiment Steps**
+
+At the bottom of the canvas are the experiment steps, which describe
+the concrete actions that will be taken to test the hypothesis. These
+steps are based on the Course of Action and typically translate into
+tasks managed through the **Exploratory Kanban** board. The steps
+should be practical and testable, enabling focused execution while
+allowing for rapid learning through iteration.
+
+> *Leave this blank until after the planning session.*
+
+6. **7:30 – Outputs**
+
+Continuing clockwise, this hexagon lists the outputs generated during
+the experiment. These are tangible artifacts or deliverables that
+result from executing the steps of the Course of Action. Outputs might
+include code commits, releases, deployments, documentation,
+prototypes, decisions, or other forms of evidence that something has
+been built, tested, or delivered as part of the experiment.
+
+7. **10:30 – Results and Learnings**
+
+The final hexagon captures the results and learnings from the
+experiment. This space is progressively populated through **After
+Action Reviews (AARs)**, which reflect on what occurred during
+execution. It documents the observed outcomes, whether expected or
+not, and records the insights gained. Learnings may come from both
+success and failure and are essential for refining future hypotheses
+or adjusting strategy.
 
 ### 3. Plan Using the Recognitional Planning Model (RPM)
 
@@ -323,17 +401,17 @@ Update the **Experiment Canvas** with the following elements:
 
 * **Hypothesis CoA** – Capture the planned course of action in a
   narrative format, ideally structured as a three-phase progression:
-  *“Initially, we...; thereafter, we...; and finally, we...”*  This
-  storytelling form improves clarity, alignment, and memory
+  *“Initially, we...; thereafter, we...; and finally, we...”*  
+  This storytelling form improves clarity, alignment, and memory
   recall—especially in complex or time-critical operations.
 
 * **Evaluation Criteria** – Define what success looks like by
   specifying thresholds, tolerances, or boundaries that must be met
   for the outcome to be considered achieved.
 
-* **Indicators and Metrics** – Identify the signals—both quantitative
-  and qualitative—that will be used to track progress and validate
-  whether the intended effects are occurring.
+* **Metrics** – Identify the signals—both quantitative and
+  qualitative—that will be used to track progress and validate whether
+  the intended effects are occurring.
 
 * **Falsifiability Check** – Confirm that the hypothesis is **testable
   and falsifiable**, ensuring that failure to achieve the expected
@@ -377,140 +455,109 @@ In each AAR:
 These updates may inform refinements to the current Outcome Card or
 trigger a new iteration of the planning and experimentation cycle.
 
-### Outcome vs. Output
+### Recognitional Planning Model
 
-A frequent challenge in applying outcome-based thinking is the
-**blurring between outcomes and outputs**, especially at the team
-level. Outputs are **things we deliver**—features, services,
-improvements. Outcomes are the **observable changes** those outputs
-create in the real world.
+The **Recognitional Planning Model (RPM)** is a cognitive
+decision-making framework originally developed within military and
+emergency response contexts, particularly in high-stakes environments
+where rapid yet effective decisions are needed despite uncertainty or
+incomplete information. Its foundations trace back to the work of Gary
+Klein and others studying **naturalistic decision-making**—how experts
+make fast, effective choices based on experience rather than
+exhaustive analysis.
 
-> An output is **delivered**.  
-> An outcome is **validated** by real-world evidence.
+The term "recognitional" reflects the core mechanism of the model:
+rather than generating and comparing multiple detailed options from
+scratch (as in traditional decision theory), experienced practitioners
+**recognize familiar patterns or situations**, which trigger
+**pre-formed mental models or scripts** for what to do. These scripts
+are then quickly evaluated for fit. If they seem workable, they are
+executed with minimal delay. If not, they are adapted or rejected, and
+another option is tried. In short, it's not about calculating the best
+plan, but identifying a "good enough" one based on what’s known right
+now.
 
-Teams often mistake improved functionality (e.g., "faster page load")
-for outcomes, when the true goal is behavioral or value-based (e.g.,
-"more users complete the checkout process").
+OBAF (Outcome-Based Adaptive Framework) draws from RPM to empower
+teams to **move from strategy to action** efficiently without being
+paralyzed by the need for perfect plans. In a self-organizing,
+cross-functional team, RPM helps teams generate a **Course of Action
+(CoA)** rooted in shared understanding, lived experience, and the
+situational context—rather than top-down directives or speculative
+analysis.
 
-#### Outcome vs. Output Examples
+RPM is especially well-suited for environments where:
 
-1. **Outcome:** Users complete tasks faster  
-   **Signals of change:** Higher task completion rates and a reduction
-   in user drop-offs  
-   **Related outputs:** Page speed improvements and a streamlined user
-   interface with fewer steps
+* Conditions are changing or ambiguous.
+* Information is incomplete but action is still required.
+* The team has enough collective experience to recognize useful
+  patterns and plausible next steps.
+* Rapid experimentation and adaptation are valued over rigid
+  execution.
 
-2. **Outcome:** More users set up their accounts through self-service  
-   **Signals of change:** Increased percentage of accounts created
-   without needing human assistance  
-   **Related outputs:** Redesigned onboarding experience and automated
-   support tools  
+When applied to planning within an OBAF context, RPM supports the
+creation of an experiment-ready CoA that is simple, realistic, and
+immediately actionable. It enables teams to move quickly toward
+testing while maintaining alignment with strategic outcomes.
 
-3. **Outcome:** Fewer users require support for password issues  
-   **Signals of change:** Lower volume of support tickets and positive
-   user feedback  
-   **Related outputs:** Enhanced "Forgot Password" functionality and
-   better input validation  
+### How to Apply RPM in a Planning Session
 
-4. **Outcome:** Users trust billing processes more  
-   **Signals of change:** Fewer billing-related complaints and higher
-   Net Promoter Score (NPS)  
-   **Related outputs:** Clearer invoice layouts and helpful usage
-   explanations via tooltips  
+When a team applies RPM, they are not brainstorming a long list of
+potential ideas to analyze and debate. Instead, they begin by
+identifying **what is known**, **what’s being observed**, and **what
+similar situations the team has seen before**. From this, a plausible
+Course of Action naturally emerges—a storyline of what to try next,
+based on judgment, relevance, and feasibility.
 
-5. **Outcome:** Increased usage of the scheduling feature  
-   **Signals of change:** Higher adoption and more frequent usage of
-   the feature  
-   **Related outputs:** Launch of the feature, onboarding guidance,
-   and supportive help content  
+The result is a CoA written in a storytelling format, broken into
+three distinct phases:
 
-> **Example:**  
-> “Improve page load time” is an **output** (a quality attribute).
-> “Increase checkout completion rate” is the **outcome**. The former
-> contributes to the latter, but **is not the outcome itself**.
+#### Initially
 
-#### Tip for Teams
+This phase sets the immediate next steps—the first actions the team
+will take based on what is currently known and achievable. It may
+involve establishing a starting point, setting up conditions for
+experimentation, or initiating a change. These steps should be clear,
+specific, and focused on creating early signals or momentum.
 
-When defining an outcome, ask:
+> *Example: “Initially, we will release the new onboarding prompt to
+> 10% of users on the signup page to observe whether it improves
+> progression to the dashboard.”*
 
-* What will people **do differently** if this works?
-* How will we **observe or measure** that change?
-* Could the outcome be achieved **in multiple ways**?
+#### Thereafter
 
-Outcomes describe **why something matters** and how success is
-observed—not what to build.
+This is the unfolding middle of the story—the reaction phase. It
+outlines how the team will follow up based on initial feedback or
+results, what further actions will be taken, and how the hypothesis
+will evolve through implementation.
 
-### Cross-Team Coordination and Outcome Ownership
+> *Example: “Thereafter, we will compare engagement metrics between
+> the test and control groups and run interviews with selected users
+> who completed the new flow to understand their experience.”*
 
-Outcomes should not be split across teams with different
-priorities. To ensure coherence and ownership:
+#### Finally
 
-* Each outcome should belong to one clearly defined team or pod.
-* If multiple teams contribute, they must act as a single
-  outcome-focused unit.
-* Organizational structures should evolve to reflect outcome
-  boundaries (Conway’s Law in reverse).
-* Interfaces and dependencies should be framed as contracts, not
-  coordination burdens.
+This phase closes the loop. It describes the conditions or criteria
+for wrapping up the experiment, scaling the intervention, or shifting
+focus. It might include what will happen if the hypothesis is
+confirmed or disproven, or how the team will capture and share
+learnings.
 
-Teams are encouraged to reorganize when outcome ownership becomes
-diluted or coordination overhead increases.
+> *Example: “Finally, if we see a 20% or higher increase in dashboard
+> activation within the test group, we will roll out the prompt to all
+> users and update our user journey map to reflect this new entry
+> pattern.”*
 
-### Leadership and Oversight
+#### The Cognitive Engine
 
-Leadership in OBAF means enabling, not directing. Oversight should be
-nearly invisible:
+RPM provides a pragmatic, grounded approach to planning—especially
+suited to autonomous, cross-functional teams working under
+uncertainty. By focusing on recognition, experience, and iterative
+adaptation, it enables teams to act with clarity and purpose. In OBAF,
+it is the cognitive engine behind the Course of Action, helping turn
+strategic intent into experiment-ready hypotheses that are both
+testable and actionable.
 
-* **Optimal oversight is automated**: KPIs, usage data, or real-world
-  impact signals.
-* Leaders guide through vision and constraints—not feature lists or
-  status reports.
-* Interventions should only occur in cases of systemic failure,
-  ethical risk, or learning breakdowns.
-* Sponsors and managers should practice servant leadership —
-  understood here as a facilitative approach — by funding experiments,
-  supporting outcome framing, and modeling evidence-based
-  decision-making.
-
-#### From Status-Reporting to Evidence-Framing
-
-For leaders and sponsors, shifting from traditional output oversight
-to outcome enablement means more than changing what gets tracked—it
-requires changing how conversations happen.
-
-In status-reporting cultures, reviews often focus on surface-level
-indicators: percent complete, story points burned, or tasks
-delivered. These measures are easy to collect but rarely illuminate
-whether meaningful progress is happening.
-
-Evidence-framing transforms these conversations. Instead of asking,
-*“Are we on track?”* leaders ask, *“What have we learned?”*, *“What
-signals are emerging?”*, and *“What’s the current level of confidence
-in the outcome?”*
-
-This shift happens progressively, often in small steps:
-
-* A delivery update evolves into a learning review, where the team
-  shares new insights about user behavior or system feedback—not just
-  what was built.
-* Instead of tracking feature completion, leaders start watching for
-  real-world signals that value is emerging (e.g., user adoption,
-  friction reduction, behavior change).
-* Weekly reports stop listing tasks and start summarizing discoveries,
-  test results, and adjustments based on evidence.
-* "Red-yellow-green" status summaries give way to qualitative
-  confidence levels—rooted in both data and team insight.
-
-As leaders adopt this posture, they stop asking for certainty and
-start investing in clarity. They stop steering by roadmap and start
-enabling exploration, grounded in trust and observable impact.
-
-The goal is not to eliminate accountability—but to make it
-meaningful. When teams are asked to show **evidence of learning**, not
-just activity, accountability becomes a tool for alignment, not
-control.
-
-### Recommended Team Flow: Exploratory Kanban
+### Exploratory Kanban
 
 To support daily exploratory work in Outcome-Based Agile, teams are
 encouraged to adopt a lightweight Kanban system that promotes focus,
@@ -658,6 +705,137 @@ These reminders help teams stay focused on learning and progress that
 matters—so validation remains a discovery process, not a performance
 ritual.
 
+### Outcome vs. Output
+
+A frequent challenge in applying outcome-based thinking is the
+**blurring between outcomes and outputs**, especially at the team
+level. Outputs are **things we deliver**—features, services,
+improvements. Outcomes are the **observable changes** those outputs
+create in the real world.
+
+> An output is **delivered**.  
+> An outcome is **validated** by real-world evidence.
+
+Teams often mistake improved functionality (e.g., "faster page load")
+for outcomes, when the true goal is behavioral or value-based (e.g.,
+"more users complete the checkout process").
+
+#### Examples
+
+1. **Outcome:** Users complete tasks faster  
+   **Signals of change:** Higher task completion rates and a reduction
+   in user drop-offs  
+   **Related outputs:** Page speed improvements and a streamlined user
+   interface with fewer steps
+
+2. **Outcome:** More users set up their accounts through self-service  
+   **Signals of change:** Increased percentage of accounts created
+   without needing human assistance  
+   **Related outputs:** Redesigned onboarding experience and automated
+   support tools  
+
+3. **Outcome:** Fewer users require support for password issues  
+   **Signals of change:** Lower volume of support tickets and positive
+   user feedback  
+   **Related outputs:** Enhanced "Forgot Password" functionality and
+   better input validation  
+
+4. **Outcome:** Users trust billing processes more  
+   **Signals of change:** Fewer billing-related complaints and higher
+   Net Promoter Score (NPS)  
+   **Related outputs:** Clearer invoice layouts and helpful usage
+   explanations via tooltips  
+
+5. **Outcome:** Increased usage of the scheduling feature  
+   **Signals of change:** Higher adoption and more frequent usage of
+   the feature  
+   **Related outputs:** Launch of the feature, onboarding guidance,
+   and supportive help content  
+
+> **Example:**  
+> “Improve page load time” is an **output** (a quality attribute).
+> “Increase checkout completion rate” is the **outcome**. The former
+> contributes to the latter, but **is not the outcome itself**.
+
+**Tip for Teams:** When defining an outcome, ask:
+
+* What will people **do differently** if this works?
+* How will we **observe or measure** that change?
+* Could the outcome be achieved **in multiple ways**?
+
+Outcomes describe **why something matters** and how success is
+observed—not what to build.
+
+### Cross-Team Coordination and Outcome Ownership
+
+Outcomes should not be split across teams with different
+priorities. To ensure coherence and ownership:
+
+* Each outcome should belong to one clearly defined team or pod.
+* If multiple teams contribute, they must act as a single
+  outcome-focused unit.
+* Organizational structures should evolve to reflect outcome
+  boundaries (Conway’s Law in reverse).
+* Interfaces and dependencies should be framed as contracts, not
+  coordination burdens.
+
+Teams are encouraged to reorganize when outcome ownership becomes
+diluted or coordination overhead increases.
+
+### Leadership and Oversight
+
+Leadership in OBAF means enabling, not directing. Oversight should be
+nearly invisible:
+
+* **Optimal oversight is automated**: KPIs, usage data, or real-world
+  impact signals.
+* Leaders guide through vision and constraints—not feature lists or
+  status reports.
+* Interventions should only occur in cases of systemic failure,
+  ethical risk, or learning breakdowns.
+* Sponsors and managers should practice servant leadership —
+  understood here as a facilitative approach — by funding experiments,
+  supporting outcome framing, and modeling evidence-based
+  decision-making.
+
+#### From Status-Reporting to Evidence-Framing
+
+For leaders and sponsors, shifting from traditional output oversight
+to outcome enablement means more than changing what gets tracked—it
+requires changing how conversations happen.
+
+In status-reporting cultures, reviews often focus on surface-level
+indicators: percent complete, story points burned, or tasks
+delivered. These measures are easy to collect but rarely illuminate
+whether meaningful progress is happening.
+
+Evidence-framing transforms these conversations. Instead of asking,
+*“Are we on track?”* leaders ask, *“What have we learned?”*, *“What
+signals are emerging?”*, and *“What’s the current level of confidence
+in the outcome?”*
+
+This shift happens progressively, often in small steps:
+
+* A delivery update evolves into a learning review, where the team
+  shares new insights about user behavior or system feedback—not just
+  what was built.
+* Instead of tracking feature completion, leaders start watching for
+  real-world signals that value is emerging (e.g., user adoption,
+  friction reduction, behavior change).
+* Weekly reports stop listing tasks and start summarizing discoveries,
+  test results, and adjustments based on evidence.
+* "Red-yellow-green" status summaries give way to qualitative
+  confidence levels—rooted in both data and team insight.
+
+As leaders adopt this posture, they stop asking for certainty and
+start investing in clarity. They stop steering by roadmap and start
+enabling exploration, grounded in trust and observable impact.
+
+The goal is not to eliminate accountability—but to make it
+meaningful. When teams are asked to show **evidence of learning**, not
+just activity, accountability becomes a tool for alignment, not
+control.
+
 ## Outcome-Based Agile Readiness Assessment
 
 This *Readiness Assessment* focuses on organizational, team, and
@@ -667,7 +845,7 @@ diagnostic or self-check before adopting the framework.
 
 ### 1. Outcome Thinking
 
-> Are we focused on value and behavior change, not just delivery?
+**Are we focused on value and behavior change, not just delivery?**
 
 - [ ] Do we define success in terms of user behavior, business value,
       or system performance—not just features delivered?
@@ -676,11 +854,11 @@ diagnostic or self-check before adopting the framework.
 - [ ] Do teams have a clear understanding of the desired outcome
       before starting work?
 
-**If “yes” to 2 or more**: Outcome awareness is emerging.
+> **If “yes” to 2 or more**: Outcome awareness is emerging.
 
 ### 2. Team Autonomy and Cross-Functionality
 
-> Can teams own the problem, not just execute tasks?
+**Can teams own the problem, not just execute tasks?**
 
 - [ ] Do teams have the skills to explore and deliver without constant
       handoffs?
@@ -689,11 +867,11 @@ diagnostic or self-check before adopting the framework.
 - [ ] Do teams work from outcomes or constraints, rather than
       prewritten tickets?
 
-**If “yes” to 2 or more**: Autonomy foundations are in place.
+> **If “yes” to 2 or more**: Autonomy foundations are in place.
 
 ### 3. Evidence-Driven Culture
 
-> Are decisions grounded in learning from users and data?
+**Are decisions grounded in learning from users and data?**
 
 - [ ] Do we treat plans as hypotheses that can change based on new
       learning?
@@ -701,11 +879,11 @@ diagnostic or self-check before adopting the framework.
       work?
 - [ ] Do leaders welcome evidence that challenges assumptions?
 
-**If “yes” to 2 or more**: Culture supports evidence-based work.
+> **If “yes” to 2 or more**: Culture supports evidence-based work.
 
 ### 4. Psychological Safety and Learning
 
-> Can people speak up, learn from failure, and improve continuously?
+**Can people speak up, learn from failure, and improve continuously?**
 
 - [ ] Are retrospectives or reviews blameless, structured, and
       regularly held?
@@ -713,11 +891,11 @@ diagnostic or self-check before adopting the framework.
 - [ ] Are failures framed as learning opportunities, not performance
       gaps?
 
-**If “yes” to 2 or more**: A learning environment exists.
+> **If “yes” to 2 or more**: A learning environment exists.
 
 ### 5. Leadership as Enabler
 
-> Do leaders guide through intent and remove blockers?
+**Do leaders guide through intent and remove blockers?**
 
 - [ ] Are leaders setting direction through desired outcomes—not
       features or task lists?
@@ -725,7 +903,7 @@ diagnostic or self-check before adopting the framework.
 - [ ] Is governance light, adaptive, and supportive of learning and
       change?
 
-**If “yes” to 2 or more**: Leadership is aligned with OBAF principles.
+> **If “yes” to 2 or more**: Leadership is aligned with OBAF principles.
 
 ### Scoring Summary
 
@@ -798,7 +976,7 @@ alignment, and momentum across a range of critical topics:
       *why* it matters?
 - [ ] Have success signals (qualitative or quantitative) been defined?
 
-### 2. Measurement and Evidence**
+### 2. Measurement and Evidence
 
 - [ ] Is there a measurable signal for outcome progress (e.g., a
       proxy, heuristic, or direct metric)?
