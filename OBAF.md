@@ -37,9 +37,8 @@ delivering work.
 Because shared goals outlast specific ideas.
 
 That is, while there is value in outputs, defined scopes, and planned
-features,  
-**we value the ability to learn and adapt toward real outcomes far
-more.**
+features, **we value the ability to learn and adapt toward real
+outcomes far more.**
 
 ## Framework Tenets
 
@@ -135,7 +134,7 @@ individual team members. Only lessons learned, without attribution to
 specific people, are captured to ensure a fully blameless environment
 that fosters openness and continuous improvement.
 
-## How to Apply This Framework
+# How to Apply This Framework
 
 > **Start small:** Before applying the framework to any
 > initiative—whether one, many, or all—begin with the Readiness
@@ -174,7 +173,7 @@ must shift from implementing solutions to exploring possibilities. And
 the organization must create space for evidence to matter more than
 certainty.
 
-## Recommended Implementation
+# Recommended Implementation
 
 This framework **recommends—not prescribes—a structured yet adaptable
 approach** to outcome-driven planning and experimentation. It provides
@@ -196,7 +195,7 @@ The six parts of the loop are:
 4. Translate CoA into Executable Tasks via an Exploratory Kanban Board
 5. Facilitate After Action Reviews (AARs)
 
-### 0. Establish Feedback Loops Early
+## 0. Establish Feedback Loops Early
 
 Before initiating any outcome or experiment, prioritize the creation
 of **instant or near-instant feedback mechanisms** that are specific
@@ -211,7 +210,7 @@ grounded, and actionable.
 > *Tip: Consider making this one of your first Outcome Cards—ensuring
 > early visibility into what’s working and what’s not.*
 
-### 1. Create an Outcome Card
+## 1. Create an Outcome Card
 
 Start by defining a clear, focused **intent** that communicates the
 outcome you aim to achieve. The **Outcome Card** acts as a central
@@ -289,7 +288,7 @@ intent.
 > concrete work across teams—maintaining clarity of direction while
 > enabling decentralized execution.*
 
-### 2. Initialize an Experiment Canvas
+## 2. Initialize an Experiment Canvas
 
 After defining your Outcome Card, the next step is to set up an
 **Experiment Canvas**. This canvas serves as the operational bridge
@@ -307,7 +306,7 @@ running an experiment—from forming a hypothesis to capturing results
 and learnings. This structure helps keep every part of the experiment
 aligned with its intended outcome and purpose.
 
-1. **Center Hexagon – Outcome Definition**
+### 1. Center Hexagon – Outcome Definition
 
 At the center of the canvas is the outcome definition, representing
 the strategic objective the experiment is ultimately serving. This
@@ -317,7 +316,7 @@ strategic goals and the experiment being conducted. Everything else in
 the canvas connects back to this core definition, maintaining
 alignment with the intended impact.
 
-2. **12 o’clock – Hypothesis (Course of Action)**
+### 2. 12 o’clock – Hypothesis (Course of Action)
 
 At the top of the canvas is the hexagon that holds the hypothesis
 under test. This is expressed as a *Course of Action* (CoA), developed
@@ -333,7 +332,7 @@ conclude or transition.
 
 > *Leave this blank until the planning session has produced a CoA.*
 
-3. **1:30 – Evaluation Criteria**
+### 3. 1:30 – Evaluation Criteria
 
 Moving clockwise, the next hexagon defines the evaluation criteria for
 the experiment. This includes the thresholds, conditions, or
@@ -343,7 +342,7 @@ such as acceptable tolerances or target ranges, and is critical for
 determining when to pivot, persevere, or stop the experiment
 altogether.
 
-4. **4:30 – Metrics**
+### 4. 4:30 – Metrics
 
 The next hexagon contains the metrics that will be observed and
 measured throughout the experiment. These signals provide evidence of
@@ -353,7 +352,9 @@ qualitative, such as user behavior or feedback themes. They should be
 directly relevant to both the evaluation criteria and the defined
 outcome, providing insight into whether progress is being made.
 
-5. **6 o’clock – Experiment Steps**
+> *Optionally, leave this blank until after the planning session.*
+
+### 5. 6 o’clock – Experiment Steps
 
 At the bottom of the canvas are the experiment steps, which describe
 the concrete actions that will be taken to test the hypothesis. These
@@ -364,7 +365,7 @@ allowing for rapid learning through iteration.
 
 > *Leave this blank until after the planning session.*
 
-6. **7:30 – Outputs**
+### 6. 7:30 – Outputs
 
 Continuing clockwise, this hexagon lists the outputs generated during
 the experiment. These are tangible artifacts or deliverables that
@@ -373,7 +374,7 @@ include code commits, releases, deployments, documentation,
 prototypes, decisions, or other forms of evidence that something has
 been built, tested, or delivered as part of the experiment.
 
-7. **10:30 – Results and Learnings**
+### 7. 10:30 – Results and Learnings
 
 The final hexagon captures the results and learnings from the
 experiment. This space is progressively populated through **After
@@ -383,7 +384,7 @@ not, and records the insights gained. Learnings may come from both
 success and failure and are essential for refining future hypotheses
 or adjusting strategy.
 
-### 3. Plan Using the Recognitional Planning Model (RPM)
+## 3. Plan Using the Recognitional Planning Model (RPM)
 
 Conduct a focused planning session using the **Recognitional Planning
 Model**, which supports rapid, experience-driven
@@ -417,7 +418,7 @@ Update the **Experiment Canvas** with the following elements:
   and falsifiable**, ensuring that failure to achieve the expected
   outcome can be clearly recognized and learned from.
 
-### 4. Translate CoA into Executable Tasks
+## 4. Translate CoA into Executable Tasks
 
 Convert the CoA into a set of small, testable **execution tasks**.
 These tasks enter the **Exploratory Kanban Board**, where the focus is
@@ -434,7 +435,7 @@ supporting:
   Canvas** and any relevant technical workflows, such as code merges
   and deployments.
 
-### 5. Facilitate After Action Reviews (AARs)
+## 5. Facilitate After Action Reviews (AARs)
 
 Schedule **regular After Action Reviews**, or trigger them
 contextually—for example, when the backlog runs thin or a natural
@@ -455,7 +456,7 @@ In each AAR:
 These updates may inform refinements to the current Outcome Card or
 trigger a new iteration of the planning and experimentation cycle.
 
-### Recognitional Planning Model
+## Recognitional Planning Model
 
 The **Recognitional Planning Model (RPM)** is a cognitive
 decision-making framework originally developed within military and
@@ -499,7 +500,7 @@ creation of an experiment-ready CoA that is simple, realistic, and
 immediately actionable. It enables teams to move quickly toward
 testing while maintaining alignment with strategic outcomes.
 
-### How to Apply RPM in a Planning Session
+## How to Apply RPM in a Planning Session
 
 When a team applies RPM, they are not brainstorming a long list of
 potential ideas to analyze and debate. Instead, they begin by
@@ -511,7 +512,7 @@ based on judgment, relevance, and feasibility.
 The result is a CoA written in a storytelling format, broken into
 three distinct phases:
 
-#### Initially
+### Initially
 
 This phase sets the immediate next steps—the first actions the team
 will take based on what is currently known and achievable. It may
@@ -523,7 +524,7 @@ specific, and focused on creating early signals or momentum.
 > 10% of users on the signup page to observe whether it improves
 > progression to the dashboard.”*
 
-#### Thereafter
+### Thereafter
 
 This is the unfolding middle of the story—the reaction phase. It
 outlines how the team will follow up based on initial feedback or
@@ -534,7 +535,7 @@ will evolve through implementation.
 > the test and control groups and run interviews with selected users
 > who completed the new flow to understand their experience.”*
 
-#### Finally
+### Finally
 
 This phase closes the loop. It describes the conditions or criteria
 for wrapping up the experiment, scaling the intervention, or shifting
@@ -547,7 +548,7 @@ learnings.
 > users and update our user journey map to reflect this new entry
 > pattern.”*
 
-#### The Cognitive Engine
+### The Cognitive Engine
 
 RPM provides a pragmatic, grounded approach to planning—especially
 suited to autonomous, cross-functional teams working under
@@ -557,7 +558,7 @@ it is the cognitive engine behind the Course of Action, helping turn
 strategic intent into experiment-ready hypotheses that are both
 testable and actionable.
 
-### Exploratory Kanban
+## Exploratory Kanban
 
 To support daily exploratory work in Outcome-Based Agile, teams are
 encouraged to adopt a lightweight Kanban system that promotes focus,
@@ -565,7 +566,7 @@ flow, and learning across disciplines. This system is not limited to
 software—it applies to any kind of outcome-focused work, including
 research, operations, design, service development, or policy.
 
-#### Suggested Columns
+### Suggested Columns
 
 * **Ready for Development** – Items selected from the backlog, framed
   as hypotheses to explore
@@ -583,7 +584,7 @@ backlog becomes too shallow, it triggers a discovery or planning
 session to replenish ideas grounded in the outcome’s intent and
 constraints.
 
-#### Pull System Across the Flow
+### Pull System Across the Flow
 
 The system operates as a pull-based workflow:
 
@@ -601,7 +602,7 @@ This pull mechanism prevents overload, respects WIP limits, and
 encourages reflection at each transition. It reinforces that movement
 between phases is a deliberate choice, not an automatic step.
 
-#### WIP Limits
+### WIP Limits
 
 To support team autonomy, sustainable pace, and continuous learning,
 the columns **Ready for Development**, **In Development**, and
@@ -610,7 +611,7 @@ flexible boundaries set by the team to reveal bottlenecks, maintain
 smooth flow, and foster intentional decision-making—rather than rigid
 rules imposed externally.
 
-#### Validation Happens Outside the Board
+### Validation Happens Outside the Board
 
 This board reflects internal work readiness and coordination—not
 outcome success. Actual validation of a hypothesis happens through
@@ -618,7 +619,7 @@ outcome success. Actual validation of a hypothesis happens through
 behavior change, system performance, or user engagement. The **Done**
 column indicates readiness for delivery, not proof of effectiveness.
 
-#### Why This Flow Supports OBAF
+### Why This Flow Supports OBAF
 
 This Exploratory Kanban system enables:
 
@@ -631,7 +632,7 @@ This Exploratory Kanban system enables:
 It supports autonomy, encourages sustainable pace, and keeps delivery
 aligned with real-world evidence—as Outcome-Based Agile demands.
 
-### Validation Outside the Board
+## Validation Outside the Board
 
 The Kanban board reflects the team’s internal readiness and
 coordination—not the validation of actual outcomes.
@@ -659,14 +660,14 @@ essential and complementary. Effective validation blends data and
 dialogue, measuring behavior while understanding intent. This ensures
 that outcomes are not only observable but meaningful.
 
-### Common Anti-Patterns in Outcome Validation
+# Common Anti-Patterns in Outcome Validation
 
 To maintain the integrity of outcome-based work, teams must be mindful
 of common traps that quietly erode learning and agility. These
 anti-patterns often emerge when metrics are misused, constraints
 become overly rigid, or activity is mistaken for value.
 
-#### 1. Goodhart’s Law in Action
+## 1. Goodhart’s Law in Action
 
 > When a measure becomes a target, it ceases to be a good measure.
 
@@ -675,7 +676,7 @@ rate or increasing click-through), they may lose sight of the
 underlying change that truly matters. Metrics should serve as signals
 for exploration—not targets to hit at any cost.
 
-#### 2. Vanity Metrics
+## 2. Vanity Metrics
 
 Not all data is meaningful. Metrics like page views, impressions, or
 internal velocity can create the illusion of progress while masking
@@ -683,7 +684,7 @@ stagnation. These vanity metrics look good on dashboards but rarely
 reflect real user or business outcomes. Prioritize signals that tie
 directly to meaningful behavior change or value realization.
 
-#### 3. Constraint Creep
+## 3. Constraint Creep
 
 Constraints exist to define safe boundaries—not to prescribe
 solutions. Over time, teams often inherit outdated specifications or
@@ -705,7 +706,7 @@ These reminders help teams stay focused on learning and progress that
 matters—so validation remains a discovery process, not a performance
 ritual.
 
-### Outcome vs. Output
+# Outcome vs. Output
 
 A frequent challenge in applying outcome-based thinking is the
 **blurring between outcomes and outputs**, especially at the team
@@ -720,7 +721,7 @@ Teams often mistake improved functionality (e.g., "faster page load")
 for outcomes, when the true goal is behavioral or value-based (e.g.,
 "more users complete the checkout process").
 
-#### Examples
+## Examples
 
 1. **Outcome:** Users complete tasks faster  
    **Signals of change:** Higher task completion rates and a reduction
@@ -757,7 +758,9 @@ for outcomes, when the true goal is behavioral or value-based (e.g.,
 > “Increase checkout completion rate” is the **outcome**. The former
 > contributes to the latter, but **is not the outcome itself**.
 
-**Tip for Teams:** When defining an outcome, ask:
+## Tip for Teams
+
+When defining an outcome, ask:
 
 * What will people **do differently** if this works?
 * How will we **observe or measure** that change?
@@ -766,7 +769,7 @@ for outcomes, when the true goal is behavioral or value-based (e.g.,
 Outcomes describe **why something matters** and how success is
 observed—not what to build.
 
-### Cross-Team Coordination and Outcome Ownership
+# Cross-Team Coordination and Outcome Ownership
 
 Outcomes should not be split across teams with different
 priorities. To ensure coherence and ownership:
@@ -782,7 +785,7 @@ priorities. To ensure coherence and ownership:
 Teams are encouraged to reorganize when outcome ownership becomes
 diluted or coordination overhead increases.
 
-### Leadership and Oversight
+# Leadership and Oversight
 
 Leadership in OBAF means enabling, not directing. Oversight should be
 nearly invisible:
@@ -798,7 +801,7 @@ nearly invisible:
   supporting outcome framing, and modeling evidence-based
   decision-making.
 
-#### From Status-Reporting to Evidence-Framing
+## From Status-Reporting to Evidence-Framing
 
 For leaders and sponsors, shifting from traditional output oversight
 to outcome enablement means more than changing what gets tracked—it
@@ -836,14 +839,14 @@ meaningful. When teams are asked to show **evidence of learning**, not
 just activity, accountability becomes a tool for alignment, not
 control.
 
-## Outcome-Based Agile Readiness Assessment
+# Outcome-Based Agile Readiness Assessment
 
 This *Readiness Assessment* focuses on organizational, team, and
 leadership readiness across five key dimensions. Each area includes a
 short description and 3 yes/no questions. Use it as a kickoff
 diagnostic or self-check before adopting the framework.
 
-### 1. Outcome Thinking
+## 1. Outcome Thinking
 
 **Are we focused on value and behavior change, not just delivery?**
 
@@ -856,7 +859,7 @@ diagnostic or self-check before adopting the framework.
 
 > **If “yes” to 2 or more**: Outcome awareness is emerging.
 
-### 2. Team Autonomy and Cross-Functionality
+## 2. Team Autonomy and Cross-Functionality
 
 **Can teams own the problem, not just execute tasks?**
 
@@ -869,7 +872,7 @@ diagnostic or self-check before adopting the framework.
 
 > **If “yes” to 2 or more**: Autonomy foundations are in place.
 
-### 3. Evidence-Driven Culture
+## 3. Evidence-Driven Culture
 
 **Are decisions grounded in learning from users and data?**
 
@@ -881,7 +884,7 @@ diagnostic or self-check before adopting the framework.
 
 > **If “yes” to 2 or more**: Culture supports evidence-based work.
 
-### 4. Psychological Safety and Learning
+## 4. Psychological Safety and Learning
 
 **Can people speak up, learn from failure, and improve continuously?**
 
@@ -893,7 +896,7 @@ diagnostic or self-check before adopting the framework.
 
 > **If “yes” to 2 or more**: A learning environment exists.
 
-### 5. Leadership as Enabler
+## 5. Leadership as Enabler
 
 **Do leaders guide through intent and remove blockers?**
 
@@ -905,7 +908,7 @@ diagnostic or self-check before adopting the framework.
 
 > **If “yes” to 2 or more**: Leadership is aligned with OBAF principles.
 
-### Scoring Summary
+## Scoring Summary
 
 * **4–5 areas with “2 or more YES answers”**: You're ready to pilot
   The Outcome-Based Agile Framework.
@@ -914,16 +917,7 @@ diagnostic or self-check before adopting the framework.
 * **0–1 areas**: Begin with mindset and cultural groundwork before
   rollout.
 
-## Simple Process Overview
-
-1. **Input:** Outcome + Constraints
-2. **Process:** Discovery + Delivery (Iterative)
-3. **Output:** Validated Experiments, Prototypes, and Releases
-4. **Outcome:** Real-world change (measured)
-5. **Feedback Loop:** After Action Reviews (AARs) inform learning and
-   next steps
-
-## Facilitation Guide
+# Facilitation Guide
 
 1. **Kickoff Workshop:** Define the outcomes, clarify the purpose
    behind each outcome, surface constraints, and establish team
@@ -937,6 +931,15 @@ diagnostic or self-check before adopting the framework.
    learned (see Tenet 10 for full AAR structure)
 5. **Leadership Coaching:** Train sponsors and managers to support
    outcome framing, not output control
+
+## Simple Process Overview
+
+1. **Input:** Outcome + Constraints
+2. **Process:** Discovery + Delivery (Iterative)
+3. **Output:** Validated Experiments, Prototypes, and Releases
+4. **Outcome:** Real-world change (measured)
+5. **Feedback Loop:** After Action Reviews (AARs) inform learning and
+   next steps
 
 ## Key Reminders
 
@@ -1118,7 +1121,7 @@ philosophies and practices.
       what *evidence* of safety or control looks like—rather than
       dictating process?
 
-## Conclusion
+# Summary
 
 Outcome-Based Agile is not a methodology; it is a recommitment to what
 agility was always meant to be: adaptive, user-centered, and
@@ -1127,6 +1130,6 @@ of the pursuit of clarity, progress, and real-world impact.
 
 **Outcomes, not outputs. Always.**
 
-## Signatories
+# Signatories
 
 * *Michel Blomgren <sa6mwa@gmail.com> (2025-04-26)*
