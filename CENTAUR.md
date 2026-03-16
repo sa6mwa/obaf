@@ -54,6 +54,8 @@ AI is treated as an accelerator of execution and exploration, not as an
 authority. Human judgment remains responsible for intent, constraints, and
 proof.
 
+---
+
 ## The tenets
 
 ### 1) Outcomes over outputs
@@ -105,6 +107,8 @@ Protect shared mental models. Prevent drift as change velocity rises.
 
 Reflection is mandatory, lightweight, and tied to events. Surprises must improve
 future work.
+
+---
 
 # Recommended implementation
 
@@ -201,6 +205,8 @@ automation. This loop is also where conceptual integrity is protected: if the
 system is becoming incoherent, this is where boundaries are clarified and
 contracts are made explicit.
 
+---
+
 ## How work actually moves
 
 A centaur unit begins by creating an intent card. The title should be a full
@@ -233,7 +239,7 @@ Micro-reviews are **blameless** by design:
 - always produce a concrete system change (guardrail, constraint, signal, or
   next experiment). If the review does not change the system, it is theatre.
 
-## Default accountabilities (capability-based, not titles)
+## Default accountabilities
 
 The Centaur Manifest avoids role prescriptions, but small units benefit from
 explicit default accountabilities. These defaults reduce drift and ensure the
@@ -254,6 +260,8 @@ two core truths—domain truth and systems truth—remain continuously covered.
 In many units, one person leans domain and another leans builder. In others, the
 builder set spans multiple people. The important property is not the split; it
 is that both sets of accountabilities remain owned.
+
+---
 
 ## Operating discipline for AI-augmented work
 
@@ -306,6 +314,8 @@ Use these minimal composition rules:
    - Sync time exists to resolve ambiguous intent and irreducible trade-offs,
      not to do status.
 
+---
+
 ## Templates (minimal, readable, and durable)
 
 ### Intent Card (canonical state)
@@ -348,6 +358,8 @@ Expectation: what was supposed to happen
 Observation: what actually happened  
 Explanation: why it likely happened (one level deep)  
 Change: what updates now (guardrail, constraint, signal, next experiment)
+
+---
 
 ## Anti-patterns and defenses
 
@@ -419,3 +431,7 @@ speed. It is not a method for writing tickets or running ceremonies. It is a way
 to keep a fast unit coherent: *outcomes over outputs, evidence over confidence,
 constraints over optimism, automation over bureaucracy, and learning over
 repetition.*
+
+**_Source: <https://pkt.systems/CENTAUR.md>_**
+
+**_   PDF: <https://pkt.systems/CENTAUR.pdf>_**

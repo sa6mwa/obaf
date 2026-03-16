@@ -134,6 +134,8 @@ individual team members. Only lessons learned, without attribution to
 specific people, are captured to ensure a fully blameless environment
 that fosters openness and continuous improvement.
 
+---
+
 # How to Apply This Framework
 
 > **Start small:** Before applying the framework to any
@@ -194,6 +196,8 @@ The six parts of the loop are:
 3. Plan Using the Recognitional Planning Model (RPM)
 4. Translate CoA into Executable Tasks via an Exploratory Kanban Board
 5. Facilitate After Action Reviews (AARs)
+
+---
 
 ## 0. Establish Feedback Loops Early
 
@@ -384,6 +388,8 @@ not, and records the insights gained. Learnings may come from both
 success and failure and are essential for refining future hypotheses
 or adjusting strategy.
 
+---
+
 ## 3. Plan Using the Recognitional Planning Model (RPM)
 
 Conduct a focused planning session using the **Recognitional Planning
@@ -500,6 +506,8 @@ creation of an experiment-ready CoA that is simple, realistic, and
 immediately actionable. It enables teams to move quickly toward
 testing while maintaining alignment with strategic outcomes.
 
+---
+
 ## How to Apply RPM in a Planning Session
 
 When a team applies RPM, they are not brainstorming a long list of
@@ -557,6 +565,8 @@ adaptation, it enables teams to act with clarity and purpose. In OBAF,
 it is the cognitive engine behind the Course of Action, helping turn
 strategic intent into experiment-ready hypotheses that are both
 testable and actionable.
+
+---
 
 ## Exploratory Kanban
 
@@ -632,6 +642,8 @@ This Exploratory Kanban system enables:
 It supports autonomy, encourages sustainable pace, and keeps delivery
 aligned with real-world evidence—as Outcome-Based Agile demands.
 
+---
+
 ## Validation Outside the Board
 
 The Kanban board reflects the team’s internal readiness and
@@ -706,6 +718,8 @@ These reminders help teams stay focused on learning and progress that
 matters—so validation remains a discovery process, not a performance
 ritual.
 
+---
+
 # Outcome vs. Output
 
 A frequent challenge in applying outcome-based thinking is the
@@ -768,6 +782,8 @@ When defining an outcome, ask:
 
 Outcomes describe **why something matters** and how success is
 observed—not what to build.
+
+---
 
 # Cross-Team Coordination and Outcome Ownership
 
@@ -838,6 +854,8 @@ The goal is not to eliminate accountability—but to make it
 meaningful. When teams are asked to show **evidence of learning**, not
 just activity, accountability becomes a tool for alignment, not
 control.
+
+---
 
 # Outcome-Based Agile Readiness Assessment
 
@@ -967,6 +985,8 @@ alignment, and momentum across a range of critical topics:
 9. Leadership as Outcome Enablers
 10. Organizational Agility Support
 
+---
+
 ### 1. Outcome Definition and Framing
 
 - [ ] Is the outcome expressed as a change in behavior, business
@@ -1065,6 +1085,8 @@ alignment, and momentum across a range of critical topics:
       “What problem are we solving?”)?
 - [ ] Is process adaptation encouraged over adherence to rituals?
 - [ ] Is evidence given more weight than authority or tradition?
+
+---
 
 ## Applying OBAF in Regulated Environments
 
