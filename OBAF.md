@@ -1154,4 +1154,4 @@ of the pursuit of clarity, progress, and real-world impact.
 
 # Signatories
 
-* *Michel Blomgren <sa6mwa@gmail.com> (2025-04-26)*
+* *Michel Blomgren <mike@pkt.systems> (2025-04-26)*
